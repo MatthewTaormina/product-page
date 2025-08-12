@@ -1,5 +1,7 @@
 # AquaPure Pro Water Filter - Product Landing Page
 
+[Link to live demo](https://gentle-salmiakki-631d56.netlify.app)
+
 A modern, responsive product landing page showcasing advanced web development techniques and user experience design principles.
 
 **Developer:** Matthew Taormina  
