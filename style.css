@@ -53,7 +53,7 @@ h3 {
 .product-details {
   display:grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 200px 50px 300px 400px;
+  grid-template-rows: 200px 50px 200px 400px;
   grid-gap: 50px 20px;
   margin: 0px auto;
   width: 80vw;
