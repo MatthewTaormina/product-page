@@ -94,7 +94,7 @@ I'm **Matthew Taormina**, a skilled web developer specializing in creating high-
 - Knowledge of responsive design best practices
 
 ### Skills I've Demonstrated
-- Frontend Development (HTML5, CSS3, JavaScript)
+- Frontend Development (HTML5, CSS3)
 - Responsive Web Design
 - User Experience (UX) Design
 - Performance Optimization
