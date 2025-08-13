@@ -109,7 +109,7 @@ I'm **Matthew Taormina**, a skilled web developer specializing in creating high-
 I create websites that not only look great but also drive business results.
 
 **Contact**: matthew.taormina@outlook.com  
-**LinkedIn**: [\[Your LinkedIn profile\]](https://www.linkedin.com/in/matthew-taormina/)
+**LinkedIn**: [\[My LinkedIn profile\]](https://www.linkedin.com/in/matthew-taormina/)
 
 ---
 
