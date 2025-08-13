@@ -2,6 +2,7 @@
   --heading-font: "Roboto", sans-serif;
   --header-color: #273d60;
   --body-bg-color: #feffff;
+  --testimonial-bg-color: hsl(180, 100%, 90%);
   font-size: 20px;
   box-sizing: border-box;
 }
@@ -159,6 +160,34 @@ img,video {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.product-testimonials {
+  min-height: 100px;
+  height: auto;
+  /* border-style: solid; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  background-color: var(--testimonial-bg-color)
+}
+
+.product-testimonial {
+  min-height: 100px;
+  height: auto;
+  /* border-style: solid; */
+  width: 80%;
+  max-width: 800px;
+  padding: 10px;
+}
+
+.product-testimonial-review{
+  font-size: 2rem;
+}
+
+.product-testimonial-cite {
+  font-style: italic;
 }
 
 @media (max-width: 1300px) {
